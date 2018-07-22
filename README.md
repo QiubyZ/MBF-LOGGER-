@@ -7,7 +7,7 @@ Akun yang pertama bertugas untuk mengirim hasil log.txt
 
 ke email UTAMA
 
-## Edit And Search
+## Search And Edit
 
 ![screenshot_2018-07-22-21-13-18-067_ru iiec pydroid](https://user-images.githubusercontent.com/41333888/43045963-0639e846-8dec-11e8-85b0-c200279802d0.png)
 
